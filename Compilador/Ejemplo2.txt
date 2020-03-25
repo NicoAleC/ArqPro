@@ -1,0 +1,5 @@
+MOV 3, R0
+MOV 4, R1
+MUL R0, R1
+SUM 7, R1
+MOV R1, R5

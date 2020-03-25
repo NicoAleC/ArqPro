@@ -1,0 +1,4 @@
+MOV 3, R0
+MOV 4, R1
+MUL R0, 01
+MOV R1, R5
