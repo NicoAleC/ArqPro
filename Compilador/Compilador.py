@@ -5,7 +5,7 @@ import json
 dictionaryFile = open("instrucciones.json", 'r') 
 dictionary = json.load(dictionaryFile)
 
-instructionsFile = open("Ejemplo1.txt", 'r')
+instructionsFile = open("Ejemplo.txt", 'r')
 instruction = instructionsFile.readlines()
 instructions = []
 
